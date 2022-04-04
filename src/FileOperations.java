@@ -54,6 +54,8 @@ public class FileOperations {
 		while(choice!=2);		
 	}
 	
+	
+	
 	//method for displaying files in ascending order
 	public static void ascendingOrder() {					
 	      String[] file = dir.list();
